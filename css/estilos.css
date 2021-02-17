@@ -4,3 +4,16 @@ body
     font-family: Arial, Helvetica, sans-serif;
     color: blue;
 }
+
+#container
+{
+    width: 70%;
+    padding: 1cm;
+    text-align: left;
+    border: cadetblue;
+}
+
+#container h1
+{
+    font-size: 20px;
+}
