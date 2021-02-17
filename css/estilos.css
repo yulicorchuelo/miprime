@@ -1,0 +1,21 @@
+body
+{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: blue;
+}
+
+#container
+{
+    width: 70%;
+    padding: 1cm;
+    text-align: left;
+    text-shadow: crimson;
+    border: cadetblue;
+}
+
+#container h1
+{
+    font-size: 20px;
+    color: chocolate;
+}
