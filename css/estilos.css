@@ -10,11 +10,12 @@ body
     width: 70%;
     padding: 1cm;
     text-align: left;
+    text-shadow: crimson;
     border: cadetblue;
 }
 
 #container h1
 {
     font-size: 20px;
-    font-family: cursive;
+    color: chocolate;
 }
